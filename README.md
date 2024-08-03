@@ -6,3 +6,6 @@
 <hr>
 <h1>Theory</h1>
 <p>In C++, variables store data and must be declared with a specific datatype. Common datatypes include `int` for integers, `float` and `double` for floating-point numbers, `char` for characters, and `bool` for boolean values. Declaring a variable involves specifying its type followed by its name, such as `int age;` or `double salary;`. Variables can store and manipulate data throughout the program.</p>
+<hr>
+<h1>Conclusion</h1>
+<p>In conclusion, this experiment helped us undestand and variables and different datatypes in c++ and with the help of which we have written code and executed it successfully.</p>
